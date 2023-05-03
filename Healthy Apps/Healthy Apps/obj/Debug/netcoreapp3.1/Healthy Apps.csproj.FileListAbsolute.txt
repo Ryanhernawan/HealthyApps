@@ -1,0 +1,105 @@
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\NLog.config
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.exe
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.deps.json
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.runtimeconfig.json
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.runtimeconfig.dev.json
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.pdb
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\NLog.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.AssemblyReference.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.GeneratedMSBuildEditorConfig.editorconfig
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.AssemblyInfoInputs.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.AssemblyInfo.cs
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.CoreCompileInputs.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.MvcApplicationPartsAssemblyInfo.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\Healthy Apps.StaticWebAssets.Manifest.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.RazorTargetAssemblyInfo.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.CopyComplete
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.pdb
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.genruntimeconfig.cache
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+D:\RYAN\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\appsettings.json
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\NLog.config
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.exe
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.deps.json
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.runtimeconfig.json
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.runtimeconfig.dev.json
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Healthy Apps.pdb
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\NLog.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\comerr64.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\gssapi64.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\k5sprt64.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krb5_64.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\krbcc64.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.AssemblyReference.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.GeneratedMSBuildEditorConfig.editorconfig
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.AssemblyInfoInputs.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.AssemblyInfo.cs
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.CoreCompileInputs.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.MvcApplicationPartsAssemblyInfo.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\Healthy Apps.StaticWebAssets.Manifest.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\Healthy Apps.StaticWebAssets.Pack.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Healthy Apps.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Healthy Apps.props
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Healthy Apps.props
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Healthy Apps.props
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.RazorTargetAssemblyInfo.cache
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.csproj.CopyComplete
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.dll
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.pdb
+E:\RYAN FOLDER\BINUS\SKRIPSI\Backend Healhty Apps\Healthy Apps\Healthy Apps\obj\Debug\netcoreapp3.1\Healthy Apps.genruntimeconfig.cache

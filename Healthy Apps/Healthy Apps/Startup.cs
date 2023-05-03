@@ -21,6 +21,7 @@ namespace Healthy_Apps
             Configuration = configuration;
         }
 
+
         public IConfiguration Configuration { get; }
         public static IConfiguration connectionString;
         public IConfiguration appPath { get; }
@@ -40,6 +41,18 @@ namespace Healthy_Apps
             services.AddControllers().AddNewtonsoftJson(options =>
                 options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore
             );
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                               .AllowAnyHeader()
+                               .AllowAnyMethod();
+                    });
+            });
+
 
         }
 
@@ -63,6 +76,7 @@ namespace Healthy_Apps
                 .SetIsOriginAllowed(origin => true)
                 .AllowCredentials()
             );
+
 
 
             app.UseEndpoints(endpoints =>

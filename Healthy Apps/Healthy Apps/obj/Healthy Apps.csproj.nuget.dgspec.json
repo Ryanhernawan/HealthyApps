@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RYAN\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj": {}
+    "E:\\RYAN FOLDER\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj": {}
   },
   "projects": {
-    "D:\\RYAN\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj": {
+    "E:\\RYAN FOLDER\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RYAN\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj",
+        "projectUniqueName": "E:\\RYAN FOLDER\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj",
         "projectName": "Healthy Apps",
-        "projectPath": "D:\\RYAN\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\RYAN\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\obj\\",
+        "projectPath": "E:\\RYAN FOLDER\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\Healthy Apps.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\RYAN FOLDER\\BINUS\\SKRIPSI\\Backend Healhty Apps\\Healthy Apps\\Healthy Apps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +40,21 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32.1, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             },
             "NLog": {
               "target": "Package",
@@ -68,12 +80,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.29, 3.1.29]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

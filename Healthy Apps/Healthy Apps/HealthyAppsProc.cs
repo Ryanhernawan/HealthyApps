@@ -1,6 +1,7 @@
 ﻿using BCrypt.Net;
 using Healthy_Apps.Model;
 using Healthy_Apps.Model.Request;
+using MySql.Data.MySqlClient;
 using System;
 using System.Data;
 using System.Data.SqlClient;
@@ -11,61 +12,51 @@ namespace Healthy_Apps
     public class HealthyAppsProc
     {
         public string HealhtyApps = Startup.connectionString["connectionString:Connect"];
+        MySqlConnection conn = new MySqlConnection("server=localhost;user id=root;password=root;database=healthyapps;");
 
         #region HALAMAN LOGIN SIGN UP
         public DataTable UserSignUp(UserSignUpRequest input)
         {
             DataTable dt = new DataTable();
-            string query = "sp_SignUp";
-            SqlConnection connection = new SqlConnection();
+            string query = "spGetDataUser";
+            MySqlConnection connection = new MySqlConnection();
             try
             {
-                connection.ConnectionString = HealhtyApps; 
-                SqlCommand command = new SqlCommand(query, connection); 
+                MySqlCommand command = new MySqlCommand(query, conn);
                 command.CommandType = CommandType.StoredProcedure;
 
+                command.Parameters.AddWithValue("@CustomerID", input.CustomerID);
 
-                command.Parameters.Add(new SqlParameter("Username", input.Username));
-                command.Parameters.Add(new SqlParameter("Email", input.Email));
-                command.Parameters.Add(new SqlParameter("Password", input.Password));
-
-                connection.Open();
+                conn.Open();
                 var dataReader = command.ExecuteReader();
                 dt.Load(dataReader);
                 return dt;
             }
-            catch (SqlException ex)
-            {
-                throw new Exception(ex.Message);
-            }
             catch (Exception ex)
             {
                 throw new Exception(ex.Message);
-            }            
+            }
         }
 
-        public DataTable UserLogin(UserLoginRequest input)
+        #endregion
+
+
+        #region HALAMAN WORKOUT
+        public DataTable WokroutCategoryABS()
         {
             DataTable dt = new DataTable();
-            string query = "sp_Login";
-            SqlConnection connection = new SqlConnection();
+            string query = "spGetWorkoutABS";
             try
             {
-                connection.ConnectionString = HealhtyApps;
-                SqlCommand command = new SqlCommand(query, connection);
+                MySqlCommand command = new MySqlCommand(query, conn);
                 command.CommandType = CommandType.StoredProcedure;
+                
+                //command.Parameters.AddWithValue("@categorySp", input.Category);
 
-                command.Parameters.Add(new SqlParameter("Email", input.Email));
-                command.Parameters.Add(new SqlParameter("Password", input.Password));
-
-                connection.Open();
+                conn.Open();
                 var dataReader = command.ExecuteReader();
                 dt.Load(dataReader);
                 return dt;
-
-
-
-
             }
             catch (SqlException ex)
             {
@@ -76,7 +67,6 @@ namespace Healthy_Apps
                 throw new Exception(ex.Message);
             }
         }
-
         #endregion
     }
 }
