@@ -53,6 +53,17 @@ namespace Healthy_Apps
                     });
             });
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder =>
+                    {
+                        builder
+                            .AllowAnyOrigin()
+                            .AllowAnyMethod()
+                            .AllowAnyHeader();
+                    });
+            });
 
         }
 
@@ -76,6 +87,11 @@ namespace Healthy_Apps
                 .SetIsOriginAllowed(origin => true)
                 .AllowCredentials()
             );
+
+            app.UseCors("AllowAll");
+            app.UseCors("AllowAll");
+
+
 
 
 

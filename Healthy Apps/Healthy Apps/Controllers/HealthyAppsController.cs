@@ -3,6 +3,7 @@ using Healthy_Apps.Model.Response;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Org.BouncyCastle.Asn1.Ocsp;
 
 namespace Healthy_Apps.Controllers
 {
@@ -67,11 +68,70 @@ namespace Healthy_Apps.Controllers
             return response;
         }
 
-       
+
 
         #endregion
 
         #region HALAMAN WORKOUT
+
+        [HttpGet]
+        [ActionName("Workout")]
+        public ResponseGlobal Workout()
+        {
+            ResponseGlobal response = new ResponseGlobal();
+            HealthyAppsProc proc = new HealthyAppsProc();
+
+           
+
+
+
+            try
+            {
+                response.data = proc.Workout();
+                response.Message = "Success";
+                response.MessageCode = 200;
+                Response.Headers.Add("Access-Control-Allow-Origin", "*");
+            }
+            catch
+            {
+                response.Message = "Faield";
+                response.MessageCode = 400;
+            }
+            return response;
+        }
+
+        [HttpPost]
+        [ActionName("SaveWorkout")]
+        public ResponseGlobal SaveWorkout(SaveWorkoutRequest request)
+        {
+            ResponseGlobal response = new ResponseGlobal();
+            HealthyAppsProc proc = new HealthyAppsProc();
+
+            string[] body =
+            {
+                "titleSp: " + request.title,
+                "levelSp: " + request.level,
+                "timeSp: " + request.time,
+                "imageURLSp: " + request.imageURL,
+                "categorySp: " + request.category
+            };
+
+            try
+            {
+                response.data = proc.SaveWorkout(request);
+                response.Message = "Success";
+                response.MessageCode = 200;
+            }
+            catch
+            {
+                response.Message = "Failed";
+                response.MessageCode = 400;
+            }
+            return response;
+        }
+
+
+
         [HttpGet]
         [ActionName("WorkoutCategoryABS")]
         public ResponseGlobal WokroutCategoryABS()

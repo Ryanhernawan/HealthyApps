@@ -42,6 +42,63 @@ namespace Healthy_Apps
 
 
         #region HALAMAN WORKOUT
+
+        public DataTable Workout()
+        {
+            DataTable dt = new DataTable();
+            string query = "spGetWorkout";
+            try
+            {
+                MySqlCommand command = new MySqlCommand(query, conn);
+                command.CommandType = CommandType.StoredProcedure;
+
+                conn.Open();
+                var dataReader = command.ExecuteReader();
+                dt.Load(dataReader);
+                return dt;
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public DataTable SaveWorkout(SaveWorkoutRequest input)
+        {
+            DataTable dt = new DataTable();
+            string query = "SpSaveWorkout";
+            try
+            {
+                MySqlCommand command = new MySqlCommand(query, conn);
+                command.CommandType = CommandType.StoredProcedure;
+
+                command.Parameters.AddWithValue("@titleSp", input.title);
+                command.Parameters.AddWithValue("@levelSp", input.level);
+                command.Parameters.AddWithValue("@timeSp", input.time);
+                command.Parameters.AddWithValue("@imageURlSp", input.imageURL);
+                command.Parameters.AddWithValue("@categorySp", input.category);
+
+                conn.Open();
+                var dataReader = command.ExecuteReader();
+                dt.Load(dataReader);
+                return dt;
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+        }
+
+
         public DataTable WokroutCategoryABS()
         {
             DataTable dt = new DataTable();
